@@ -20,7 +20,7 @@ The **subdomains.sh** script automates subdomain enumeration using **crt.sh**, a
 ```bash
 git clone https://github.com/Cr4ckMe1/crt-subdomains.sh
 .git
-cd crt-subdomains
+cd crt-subdomains.sh
 ```
 
 ### **2️Make the Script Executable**  
