@@ -52,7 +52,7 @@ chmod +x subdomains.sh
 
 ---
 
-## **📁 Example Output (Real-Time Like Subfinder)**
+## **📁 Example Output**
 ```bash
 [*] Fetching subdomains for: amazon.com
 amazon.com
