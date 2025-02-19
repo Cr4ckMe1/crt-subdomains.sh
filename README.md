@@ -25,7 +25,7 @@ cd crt-subdomains.sh
 
 ### **Make the Script Executable**  
 ```bash
-chmod +x subdomains.sh
+chmod +x crt-subdomains.sh
 ```
 
 ### **Usage Examples**  
