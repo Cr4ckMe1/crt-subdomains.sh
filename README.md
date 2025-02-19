@@ -16,7 +16,7 @@ The **subdomains.sh** script automates subdomain enumeration using **crt.sh**, a
 
 ## **Installation & Usage**  
 
-### **1Clone the Repository**  
+### **Clone the Repository**  
 ```bash
 git clone https://github.com/Cr4ckMe1/crt-subdomains.sh
 .git
