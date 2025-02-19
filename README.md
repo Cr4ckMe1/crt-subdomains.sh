@@ -32,22 +32,22 @@ chmod +x crt-subdomains.sh
 
 👉 **Find subdomains for a single domain:**  
 ```bash
-./subdomains.sh example.com
+./crt-subdomains.sh example.com
 ```
 
 👉 **Enable verbose mode (detailed progress):**  
 ```bash
-./subdomains.sh example.com -v
+./crt-subdomains.sh example.com -v
 ```
 
 👉 **Find subdomains for multiple domains from a file (`domains.txt`):**  
 ```bash
-./subdomains.sh domains.txt
+./crt-subdomains.sh domains.txt
 ```
 
 👉 **Multiple domains with verbose mode:**  
 ```bash
-./subdomains.sh domains.txt -v
+./crt-subdomains.sh domains.txt -v
 ```
 
 ---
